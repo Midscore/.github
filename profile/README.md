@@ -3,7 +3,7 @@
 
 Under Construction.
 
-In the meantime, you might be entertained by https://computersciencerockstars.net
+In the meantime, you might be entertained by https://compscierockstars.net
 <!--
 
 **Here are some ideas to get you started:**
